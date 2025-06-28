@@ -52,6 +52,6 @@ Aditya Kiran Mandhare
 
 📧 adityamandhare47050@gmail.com
 
-🔗 LinkedIn - 
+🔗 LinkedIn - https://www.linkedin.com/in/aditya-mandhare-00217a26b
 
 💻 GitHub - https://github.com/aditya47050/
