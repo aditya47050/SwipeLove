@@ -19,9 +19,9 @@ SwipeLove is a beautifully crafted iOS dating app built using **SwiftUI**, **Fir
 
 ## 📸 Screenshots
 
-| Swipe Cards | Match Popup | Profile View |
-|-------------|-------------|---------------|
-| ![swipe](Screenshots/swipe.png) | ![match](Screenshots/match.png) | ![profile](Screenshots/profile.png) |
+# Cards View
+
+<img src="Screenshots/card1.png" width="200" height="400"/> <img src="Screenshots/card2.png" width="200" height="400"/>  <img src="Screenshots/matchScreen.png" width="200" height="400"/>  <img src="Screenshots/matchList.png" width="200" height="400"/> <img src="Screenshots/chats.png" width="200" height="400"/> <img src="Screenshots/profile.png" width="200" height="400"/> <img src="Screenshots/editProfile.png" width="200" height="400"/><img src="Screenshots/signin.png" width="200" height="400"/> <img src="Screenshots/signup.png" width="200" height="400"/>
 
 > Add your screen images in a `Screenshots` folder inside the repo and link them above.
 
